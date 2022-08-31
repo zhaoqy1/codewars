@@ -7,3 +7,5 @@
 #### [7 kyu](https://github.com/zhaoqy1/codewars/tree/master/7-kyu)
 
 #### [6 kyu](https://github.com/zhaoqy1/codewars/tree/master/6-kyu)
+
+#### [5 kyu](https://github.com/zhaoqy1/codewars/tree/master/5-kyu)
