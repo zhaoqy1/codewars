@@ -17,7 +17,7 @@ func TestCreatePhoneNumber(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			if got := CreatePhoneNumber(tt.args.numbers); got != tt.want {
-				t.Errorf("Multiple3And5() = %v, want %v", got, tt.want)
+				t.Errorf("CreatePhoneNumber() = %v, want %v", got, tt.want)
 			}
 		})
 	}
