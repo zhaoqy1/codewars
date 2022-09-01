@@ -6,6 +6,9 @@ import (
 
 //第一种
 func ValidParentheses(parens string) bool {
+	if len(parens)%2 == 1 {
+		return false
+	}
 	// Your code goes here
 	for strings.Contains(parens, "()") {
 		parens = strings.Replace(parens, "()", "", -1)
@@ -16,6 +19,9 @@ func ValidParentheses(parens string) bool {
 //第二种
 func ValidParentheses2(parens string) bool {
 	// Your code goes here
+	if len(parens)%2 == 1 {
+		return false
+	}
 	count := 0
 	for _, c := range parens {
 		if c == '(' {
