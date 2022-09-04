@@ -18,4 +18,4 @@ cakes({apples: 3, flour: 300, sugar: 150, milk: 100, oil: 100}, {sugar: 500, flo
 
 ### 任务链接
 
-https://www.codewars.com/kata/525c65e51bf619685c000059
+https://www.codewars.com/kata/525c65e51bf619685c000059 
