@@ -6,8 +6,8 @@
 
 ## [codewars](https://www.codewars.com)
 
-#### [7 kyu](https://github.com/zhaoqy1/codewars/tree/master/7-kyu)
+#### [7 kyu](https://github.com/zhaoqy1/codewars/tree/main/7-kyu)
 
-#### [6 kyu](https://github.com/zhaoqy1/codewars/tree/master/6-kyu)
+#### [6 kyu](https://github.com/zhaoqy1/codewars/tree/main/6-kyu)
 
-#### [5 kyu](https://github.com/zhaoqy1/codewars/tree/master/5-kyu)
+#### [5 kyu](https://github.com/zhaoqy1/codewars/tree/main/5-kyu)
